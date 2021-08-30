@@ -1,4 +1,236 @@
-img{
-    height: 50%;
-    width: 50%;
+*{margin:0;padding:0;}
+
+.top_Header {
+    background: red;
+    width: 100%;
+    height: 100px;
+}
+
+.logo {
+    max-width: 100%;
+    height: auto;
+    margin: 0px 250px;
+    padding: 24px;
+    float: left;
+    width: 500px;
+}
+
+.login_Reg {
+    width: 200px;
+    float: left;
+    text-align: center;
+    margin: 21px 12px;
+    padding: 20px 24px;
+}
+
+.login_Reg a {
+    text-decoration: none;
+    margin: 10px 10px;
+    font-size: 25px;
+}
+.container{
+    width: 1140px;
+    margin: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+ul li {
+    text-decoration: none;
+    float: left;
+    margin: 11px 12px;
+    padding: 10px 2px;
+    list-style: none;
+    font-size: 21px;
+}
+      
+ul li a {
+    text-decoration: none;
+}
+.simple_border {
+    padding: 43px 10px;
+    border-bottom: 1px solid black;
+}
+}
+
+Breaking-news p {
+    text-align: center;
+}
+.Breaking-news {
+    width: 120px;
+    height: 38px;
+    padding: 0px 20px;
+    border: 1px solid black;
+    margin: 19px;
+    background-color: red;
+    text-align: center;
+}
+.Internation_news{
+    width: 120px;
+    height: 38px;
+    padding: 0px 20px;
+    border: 1px solid black;
+    margin: 19px;
+    background-color: red;
+    text-align: center;
+}
+.Internation_news p{
+    margin: 5px;
+    font-size: 22px;
+    color: white;
+}
+.Breaking-news p {
+    margin: 7px;
+    font-size: 17px;
+    color: white;
+}
+duv.control {
+    float: left;
+}
+
+.Control-title {
+    float: left;
+    width: 600px;
+    text-align: center;
+    font-size: 28px;
+    margin-top: 9px;
+    margin-left: -29px;
+    height: 39px;
+    line-height: 43px;
+}
+.breaking-title {
+    
+    margin: 10px 4px;
+    background-color: #f3f5f8;
+}
+
+.Internation-title {
+    margin: 10px 10px;
+    background-color: #f3f5f8;
+    margin-top: 14px;
+}
+
+.breaking-title span {
+    margin-top: 4px;
+    margin-bottom: 5px;
+}
+
+.reding-Post {
+    width: 375px;
+    display: block;
+    float: left;
+    height: 760px;
+}
+
+.reding-Post img {
+    width: 100%;
+    margin: 53px 17px;
+}
+
+
+
+.reding-Post h4 {
+    padding: 3px;
+    font-size: 30px;
+    color: red;
+    text-transform: uppercase;
+}
+
+
+
+.reding-Post h1 {
+    margin-bottom: 20px;
+    font-size: 30px;
+    line-height: 1.2;
+    font-weight: 500;
+    font-family: arial black;
+}
+
+.reding-Post span {
+    margin-bottom: 10px;
+    font-size: 22px;
+}
+
+.reding-Post p {
+    line-height: 1.5;
+    font-weight: 500;
+    margin-bottom: 20px;
+    display: block;
+}
+
+.reding-Post h1:hover {
+    color: red;
+}
+
+
+.First_post a img {
+    width: 80%;
+    height: auto;
+}
+
+a.post.catagory {
+    text-decoration: none;
+    font-size: 19px;
+    font-weight: 500;
+    margin: 12px 0px;
+    color: red;
+    text-transform: uppercase;
+}
+
+
+
+.post-tile a h6 {
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 1.8;
+    margin-bottom: 20px;
+}
+
+.single_blog {
+    width: 370px;
+    float: left;
+    position: absolute;
+    overflow: hidden;
+    margin-left: 424px;
+    margin-top: 192px;
+}
+
+.post-tile a {
+    text-decoration: none;
+}
+
+.Post-area {
+    width: 375px;
+    
+}
+.site_post {
+    position: absolute;
+    top: 376px;
+    float: left;
+    display: block;
+    overflow: hidden;
+    margin-left: 805px;
+    width: 375px;
+}
+
+.Post-data {
+    float: left;
+    margin: -100px 113px;
+}
+
+a.post._catagory {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: red;
+    top: 1px;
+}
+
+.posttile {
+    font-size: 25px;
+}
+
+.posttile a {
+    text-decoration: none;
+}
+.site_control {
+    margin-bottom: 20px;
 }
